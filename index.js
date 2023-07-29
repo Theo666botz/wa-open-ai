@@ -1,5 +1,5 @@
 const sessionName = "yusril";
-const donet = ".";
+const donet = "https://saweria.co/sansekai";
 const owner = ["6283818409283"]; // Put your number here ex: ["62xxxxxxxxx"]
 const {
   default: sansekaiConnect,
